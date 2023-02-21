@@ -1,0 +1,14 @@
+{
+	"id": "off_site_backup",
+	"version": "1.0.0",
+	"name": "off_site_backup",
+	"description": {
+		"en_us": "A Quick-Backup-Multi extension for store the backup on Alibaba web disk",
+		"zh_cn": "QuickBackupM的扩展,用于将备份储存在阿里网盘"
+	},
+	"dependencies": {
+		"mcdreforged": ">=2.6.0"
+	},
+	"author": "JAs0n",
+    "link": "https://github.com/JAs0n319/off_site_backup"
+}
