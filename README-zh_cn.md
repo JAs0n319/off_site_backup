@@ -3,7 +3,7 @@
 [Eeglish](./README.md)
 
 ## 用前须知
- - QuickBackM 版本 >= 1.7.0
+ - QuickBackM 版本需 >= 1.7.0
  - 安装 Aligo 库
  - ```pip install Aligo```
  - ```pip install -i https://pypi.tuna.tsinghua.edu.cn aligo```
